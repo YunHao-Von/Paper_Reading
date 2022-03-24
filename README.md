@@ -1,2 +1,7 @@
 # Paper_Reading
-学术论文阅读
+学术论文阅读   
+### 1.《Chinese named entity recognition: The state of the art》  
+Named Entity Recognition(NER), one of the most fundamental problems in natural language processing,seeks to identify the boundaries and types of entities with specific meanings in natural language text. As an important international language, Chinese has uniqueness in many aspects, and Chinese NER (CNER) is receiving increasing attention. In this paper, we give a comprehensive survey of recent advances in CNER. We first introduce some preliminary knowledge, including the common datasets, tag schemes, evaluation metrics and difficulties of CNER. Then, we separately describe recent advances in traditional research and deep learning research of CNER, in which the CNER with deep learning is our focus. We summarize related works in a basic three-layer architecture, including character representation, context encoder, and context encoder and tag decoder. Meanwhile, the attention mechanism and adversarial-transfer learning methods based on this architecture are introduced. Finally, we present the future research trends and challenges of CNER.         
+
+1.《中文命名实体识别技术的发展现状》    
+命名实体识别是自然语言处理领域最基本的难题之一。通过语料文本中的特殊含义，搜寻得到实体的边界和类型。作为一门重要的国际性语言，中文在许多方面有着自己的独特性，同时中文命名实体识别在近些年也受到了越来越多的关注。在这篇文章中，我们对中文命名实体识别进行了综合的考察。我们首先介绍了一些基础知识，包括常见的数据集，为数据集打标签的方案，评价指标和中文命名实体识别的一些困难。接着我们阐述了最近传统领域和深度学习领域在中文命名实体识别上的一些新技术。本文主要关注的是深度学习中有关于中文命名实体识别的技术。我们概述了三层网络结构中的相关工作，包括词表示，上下文编码器和标签编码器。同时，我们也介绍了这种架构下的注意力机制和对抗学习方法。同时，我们介绍了中文命名实体识别的未来研究趋势和挑战。    
